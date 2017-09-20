@@ -147,16 +147,7 @@ class ArithmeticDemo {
         int res = (2 > 3) ? 3 : 2;
         System.out.println("The value of x is " + res);
         
-        /* Integer box = new Integer(123);
-
-        Integer box2 = Integer.valueOf(123);
-
-        int intbox = box.intValue();
-        Integer box1 = 123 ;
-        int intbox1 = box1;
-        */
-
-		
+      
 	}
 
 }
