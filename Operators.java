@@ -1,5 +1,10 @@
 package com.javabasics.rajeshwar;
 
+/**
+ * @author rajeshwar(rsharma96)
+ *
+ */
+
 public class Operators {
 
 	public static void main(String[] args) {
